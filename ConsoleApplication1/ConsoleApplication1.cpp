@@ -19,7 +19,7 @@ void mostrarMenu() {
 void pausa() {
     cout << "Presiona Enter para continuar..." << endl;
     cin.ignore();
-    cin.get();
+    cin.get(); 
 }
 
 void jugar() {
